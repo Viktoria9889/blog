@@ -1,0 +1,14 @@
+.page {
+    padding: 10px;
+    border: 1px solid teal;
+    cursor: pointer;
+  }
+  
+  .page__current {
+    border: 2px solid rgb(11, 34, 34);
+    font-weight: bold;
+  }
+  .wrapper {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
